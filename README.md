@@ -78,7 +78,7 @@ Rubric for Grading:
 The total page limit is 6 pages. You would lose 2 grades if your report is longer than that. 
 References, appendices and some sections (wherever mentioned) do not count towards the page limit. 
 
-The proposal stage should have:  abstract,  introduction,  related work, and 
+The mid-term stage should have:  abstract,  introduction,  related work, and 
 sections corresponding to approach, experiments and results/progress made so far. 
 The specific names of sections are less important, 
 but 
