@@ -86,7 +86,54 @@ we would like to see whether you have made progress
 on the action plan outlined in the proposal stage. 
 Any major roadblocks or risks should be identified by this point of time.  
 
+Rubric for Grading:
 
+**A+ (Outstanding)**
+- Substantial progress made with major milestones achieved or exceeded. Work completed so far demonstrates that the project is clearly feasible and on track for a strong final outcome.
+- Experiments or implementations are well designed, systematic, and justified. Evaluation metrics, baselines, or ablations are chosen appropriately.
+- Exceptionally well-written and organized report that clearly communicates technical depth, challenges, and next steps.
+- Deep insight into what has been learned so far. Clear discussion of successes or failures, and what these imply for next steps.
+- Goes beyond most submissions and already resembles a near-complete, high-quality project.
+
+
+
+**A (Excellent)**
+- Clear, steady progress aligned with the proposed timeline. Major components implemented and functional. Project feasibility for final phase looks solid.
+- Experiments are well motivated and largely sound. Minor gaps in rigor or coverage, but overall coherent and appropriate.
+- Well-written, structured, and easy to follow. Minor lapses in clarity but communicates all key elements effectively.
+- Demonstrates solid understanding of the methods and interprets preliminary results correctly. Thoughtful discussion of what’s working and what isn’t.
+- Feedback from proposal phase has been incorporated, minor improvements or course corrections evident.
+- Meets all expectations and is clearly on track for a successful final project.
+
+
+
+**B+ (Good)**
+- Moderate progress, key milestones partly achieved but some deliverables still in progress. Feasibility for final completion plausible but needs focused effort.
+- Experiments are reasonable but may lack justification, consistency, or completeness. Some parameters or baselines not well considered.
+- Adequate and understandable report, but could be clearer, more concise, or better organized. Some technical details missing.
+- Shows reasonable understanding of the problem, though reflections may be qualitative or descriptive rather than analytical.
+- Some feedback addressed, but other suggestions ignored or not well incorporated. Limited evidence of strategic iteration.
+- Largely on track but needs better focus and depth.
+
+
+
+**B (Satisfactory)**
+- Limited or uneven progress, several key milestones still pending. Feasibility for final completion uncertain without major effort.
+- Preliminary experiments attempted but with methodological flaws or incomplete design. Weak justification of choices.
+- Report exists but lacks clarity, organization, or depth. Technical writing may be vague or fragmented.
+- Understanding of results or underlying methods is partial, reflection is minimal or missing.
+- Little evidence of having engaged with prior feedback or adapting the approach.
+- Needs sustained work to be back on track for the final phase.
+
+
+
+**C or below (Needs Improvement)**
+- Very limited or unclear progress, project direction uncertain or stalled. Feasibility for final phase in serious doubt.
+- Minimal or poorly designed experiments, methodology unclear, unjustified, or inappropriate.
+- Poorly written, disorganized, or missing essential content. Hard to follow or evaluate.
+- Weak grasp of problem and techniques; no meaningful analysis or self-assessment.
+- No evidence of having considered or implemented feedback, plan remains static or unrealistic.
+- Needs significant intervention to get back on track.
 
 # Organization
 
