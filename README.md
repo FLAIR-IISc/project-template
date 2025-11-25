@@ -1,11 +1,10 @@
 # Project Template 
 
-This is the project template for the Ethics in AI (DS 307) at Indian Institute of Science. 
+This repository provides the project template for the Ethics in AI (DS 307) course at the Indian Institute of Science. It is intended to guide you through the structure, expectations, and deliverables for your course project.
 
+The primary aim of this template is to ensure clarity and consistency across project submissions. It outlines the required components for the proposal, mid-sem & final report and helps you plan your work effectively.
 
-# Goals
-
-### Proposal Stage 
+## Proposal
 
 The total page limit is 4 pages. You would lose 2 grades if your report is longer than that. 
 References, appendices and some sections (wherever mentioned) do not count towards the page limit. 
@@ -23,7 +22,8 @@ specific tasks with associated timelines.
 
 
 
-Rubric for Grading:
+<details>
+<summary><strong>Rubric for Grading (Click to expand)</strong></summary>
 
 **A+ (Outstanding)**:
 - Problem is clearly formulated, specified and motivated
@@ -71,9 +71,9 @@ Rubric for Grading:
 - Poor or confused writing 
 - Needs serious work to be on track
 
+</details>
 
-
-### Mid-term Report
+## Mid-term Report
 
 The total page limit is 6 pages. You would lose 2 grades if your report is longer than that. 
 References, appendices and some sections (wherever mentioned) do not count towards the page limit. 
@@ -86,7 +86,9 @@ we would like to see whether you have made progress
 on the action plan outlined in the proposal stage. 
 Any major roadblocks or risks should be identified by this point of time.  
 
-Rubric for Grading:
+<details>
+<summary><strong>Rubric for Grading (Click to expand)</strong></summary>
+
 
 **A+ (Outstanding)**
 - Substantial progress made with major milestones achieved or exceeded. Work completed so far demonstrates that the project is clearly feasible and on track for a strong final outcome.
@@ -135,8 +137,63 @@ Rubric for Grading:
 - No evidence of having considered or implemented feedback, plan remains static or unrealistic.
 - Needs significant intervention to get back on track.
 
+</details>
+
+## Final Report
+
+The final report is limited to 8 pages, excluding references, appendices, and any sections explicitly exempt from the limit. Exceeding this limit will result in a two-grade penalty. This stage should present your complete study, including an abstract, related work, methods, experiments, and results. As before, the specific section names are less important than the clarity and completeness of the narrative. We expect a thorough account of your final approach and full experimental results, along with limitations, and potential future work.
+
+<details>
+<summary><strong>Rubric for Grading (Click to expand)</strong></summary>
+
+
+**A+ (Outstanding)**
+
+- Problem Motivation: Exceptionally clear, compelling, and well-contextualised.
+- Methodology & System Design: Rigorous, well-justified, and technically strong, reflects deep understanding.
+- Results & Interpretation: High-quality results with thorough evaluation and insightful analysis.
+- Writing & Organisation: Polished, precise, and very well structured.
+- Stands out as near-publication quality.
+
+**A (Excellent)**
+
+- Problem Motivation: Clear, well-articulated, and persuasive motivation.
+- Methodology & System Design: Sound, well-justified method with strong technical execution.
+- Results & Interpretation: Solid results, appropriate evaluation, and meaningful interpretation.
+- Writing & Organisation: Well-written and structured, with minor clarity issues.
+- Meets all expectations and is a successful project.
+
+**B+ (Good)**
+
+- Problem Motivation: Mostly clear but missing nuance.
+- Methodology & System Design: Reasonable and mostly justified, but with under-explained choices.
+- Results & Interpretation: Acceptable results but lacking rigour or depth.
+- Writing & Organisation: Understandable but may be verbose or loosely structured.
+- Good overall but needs more depth or polish.
+
+**B (Satisfactory)**
+
+- Problem Motivation: Present but vague or shallow.
+- Methodology & System Design: Basic approach with limited justification.
+- Results & Interpretation: Minimal, incomplete, or weakly interpreted results.
+- Writing & Organisation: Lacks clarity or structure.
+- Meets minimum requirements.
+
+**C or Below (Needs Improvement)**
+
+- Problem Motivation: Unclear or unfocused.
+- Methodology & System Design: Poorly justified or unsound.
+- Results & Interpretation: Very limited or missing.
+- Writing & Organisation: Disorganised or missing major components.
+- Falls short of expectations.
+
+</details>  
+
+<br>
+
 # Organization
 
+This repository is structured to help you keep your project modular and easy to navigate. The main LaTeX files, section-wise content, and all figures/tables are organized into dedicated folders for clarity and smooth compilation.
 
 ## Paper structure
 
