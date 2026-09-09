@@ -225,3 +225,15 @@ Feel free to include more sections as and when necessary.
 If you have LaTeX installed locally you'd have to run `make` in your terminal (assuming you have a `Makefile`). Please see the sample `Makefile` in this folder for more details.
 
 If you use `vscode` or `cursor` you can build directly from there. You can use the "LaTeX Workshop" package to do so.
+
+
+## AI Use Policy
+
+As LLMs find use in various research workflows, we require that students explicitly state how they used LLMs in their projects. To guide students about the nature and extent of reporting, we provide a list of common research subtasks along with the necessity of disclosing them.
+
+**Required**: Generate synthetic data sets, help develop theoretical models or conceptual frameworks, formulate mathematical claims, provide critical ingredients for proving mathematical claims, assist in the writing of proofs, propose or refine hypotheses, design or provide feedback on research  methodology or experiments, implement methods, assist with translation, clean and reformat dataset, support qualitative and thematic data analysis, interpret results. 
+
+**Recommended**: Formulate questions for surveys or interviews, create or modify scientific figures or images, suggest experimental parameters, create or edit software code,  creation of artifacts, draft parts of a research paper, transcribe recordings of research material, summarize or analyse existing literature, discover research topics or identify gaps, brainstorming, sourcing/searching for information, edit a research paper to improve readability, identify relevant literature, format references, suggest a structure for a research paper, propose a title or keywords for a research paper.
+
+
+**Note**: Students should disclose AI use in a separate section in their paper (this will not be counted towards the page limit). *Ultimately students should take full responsibility for the contents of their projects*. Consequently, any falsehood, instance of plagiarism, or misrepresentation produced by an LLM would be considered an instance of academic misconduct and result in an F grade for that component of the project.
