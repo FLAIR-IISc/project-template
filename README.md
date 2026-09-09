@@ -237,3 +237,7 @@ As LLMs find use in various research workflows, we require that students explici
 
 
 **Note**: Students should disclose AI use in a separate section in their paper (this will not be counted towards the page limit). *Ultimately students should take full responsibility for the contents of their projects*. Consequently, any falsehood, instance of plagiarism, or misrepresentation produced by an LLM would be considered an instance of academic misconduct and result in an F grade for that component of the project.
+
+## Instructions to submit reports
+
+Please submit your reports by emailing the instructor and the TA of the course. Please use the following subject: DS 307 Project {Proposal/Mid-term/Final} Report by {Name of authors}.
